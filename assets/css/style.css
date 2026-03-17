@@ -186,11 +186,8 @@ header .navbar ul li a:hover {
   gap: 1.5rem;
   min-height: 100vh;
   align-items: center;
-<<<<<<< HEAD
   padding-top: 7rem;
-=======
-  padding-top: 10rem;
->>>>>>> 50d7ebf192be7cd09931a948b9eaea81498a913f
+
 }
 .home #particles-js {
   position: absolute;
@@ -957,12 +954,10 @@ header .navbar ul li a:hover {
 .contact .content .image-box {
   max-width: 60%;
   margin: 0 4rem 0 2rem;
-<<<<<<< HEAD
+
   margin-left: 4rem;
-=======
-  margin-left: 2rem;
->>>>>>> 50d7ebf192be7cd09931a948b9eaea81498a913f
-}
+
+  }
 .contact .content .image-box img {
   width: 100%;
   border-radius: 1rem;

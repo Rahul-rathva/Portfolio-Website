@@ -1,5 +1,14 @@
 [
   {
+  "name": "GuardDB",
+    "desc": "Description Automate database backups with customizable recurring schedules.",
+    "image": "./assets/images/GuardDB.jpg",
+    "category": "backenddevelopment",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/GuardDB"
+    }
+  },
+  {
   "name": "Quickcart",
     "desc": "Basic e-commerce site built while learning HTML, CSS, and JavaScript from tutorials",
     "image": "./assets/images/Quickart.jpg",
@@ -72,6 +81,15 @@
     }
   },
   {
+   "name": "Portfolio Website",
+   "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+   "image": "https://marketplace.canva.com/EAGLFkPP8JM/2/0/1600w/canva-black-and-white-minimalist-aesthetic-photography-collage-portfolio-presentation-XeVNOIbnVtM.jpg",
+   "category": "fullstackdevelopment",
+   "links": {
+     "code": "https://github.com/Rahul-rathva/Basic-Portfolio"
+   }
+ },
+  {
   "name": "Digital Console Clock",
     "desc": "Console-based digital clock programmed in C++, displaying real-time updates using time functions",
     "image": "./assets/images/digital clock.jpg",
@@ -81,15 +99,6 @@
     }
   },
   
-    {
-     "name": "Portfolio Website",
-     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-     "image": "https://marketplace.canva.com/EAGLFkPP8JM/2/0/1600w/canva-black-and-white-minimalist-aesthetic-photography-collage-portfolio-presentation-XeVNOIbnVtM.jpg",
-     "category": "fullstackdevelopment",
-     "links": {
-       "code": "https://github.com/Rahul-rathva/Basic-Portfolio"
-     }
-   },
   {
    
   "name": "Tic Tac Toe Game",
