@@ -30,7 +30,8 @@ I love exploring new technologies, understanding how systems work, and turning i
 ---
 
 ## 🧩 Highlighted Projects
-- **Notes API** – RESTful API with FastAPI & SQLite  
+- **GuardDB** - Automate database backups with customizable recurring schedules.
+- **Notes APP** – RESTful API with FastAPI & SQLite  
 - **Deepfake Image Detection** – AI/ML-based image authenticity checker  
 - **Simplified Trading Bot** – Crypto simulation bot for PrimeTime.AI  
 - **Personalized Medicine Bot** – AI chatbot for Astraeus Next Gen Pvt. Ltd.  
